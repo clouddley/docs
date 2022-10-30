@@ -13,7 +13,7 @@ The Project environment is divided into two:
 Let's dive deeper into each of them.
 
 ### Development/Test
-This is an environment that is meant to be used for personally testing out apps or within an organization. Applications deployed on a development Project is not suitable for interfacing with users. They are primarily for testing and staging apps. For example:
+This is an environment that is meant to be used for personally testing out apps or within an organization. Applications deployed on a development Project are not suitable for interfacing with users. They are primarily for testing and staging apps. For example:
 - A pet project/app you want to show your friends.
 - Internal organisation app.
 - Local testing and debugging.
