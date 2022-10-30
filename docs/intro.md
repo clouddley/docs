@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Documentation Intro
+# Onboarding 
 
 Let's discover **Clouddley in less than 5 minutes**.
 

@@ -1,0 +1,8 @@
+{
+  "label": "Clouddley - Apps",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Learn how to setup an AWS application in 5 minutes using Clouddley Apps"
+  }
+}

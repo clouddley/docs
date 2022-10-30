@@ -3,7 +3,7 @@ sidebar_position: 3
 ---
 
 
-# Create a Project for AWS
+# Create a Project
 
 ## Create a project you want to use to deploy your application
 

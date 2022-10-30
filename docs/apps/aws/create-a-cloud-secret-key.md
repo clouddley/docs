@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 
 
-# Create a Cloud Secret Key for AWS
+# Create a Cloud Secret Key
 
 ## Configure your AWS account for Clouddley
 

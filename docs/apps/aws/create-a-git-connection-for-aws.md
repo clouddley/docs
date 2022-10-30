@@ -3,7 +3,7 @@ sidebar_position: 2
 ---
 
 
-# Create a Git connection for AWS
+# Create a Git connection
 
 ## Configure your AWS account and Preferred Git Provider. 
 

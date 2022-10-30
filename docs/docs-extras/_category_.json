@@ -1,8 +1,8 @@
 {
-  "label": "Docs - Extras",
+  "label": "Extras",
   "position": 4,
   "link": {
     "type": "generated-index",
-    "description": "Find out more feature and details about Clouddley."
+    "description": "Find out more features and details about Clouddley."
   }
 }
