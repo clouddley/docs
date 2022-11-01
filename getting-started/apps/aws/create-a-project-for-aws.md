@@ -20,7 +20,7 @@ The Project environment is divided into two:
 - Development/Test
 - Production
 
-Read more about it [here](/docs/docs-extras/project-environment)
+Read more about it [here](/getting-started/docs-extras/project-environment)
 
 :::
 
