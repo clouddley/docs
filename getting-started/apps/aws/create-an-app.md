@@ -51,9 +51,14 @@ npm start
 
 - It takes 2-5 mins to deploy, depending on how heavy your application is.
 
-- When the app is deployed, a `clouddley.app` url is generated, and your `App Status` will change from `DEPLOYING...` to  `RUNNING.` You should see something like this:
+- When the app is deployed, a clouddley url is generated, and your `App Status` will change from `DEPLOYING...` to  `RUNNING.` You should see something like this:
 
 ![](https://i.imgur.com/xoMwdsb.png)
+
+:::tip
+
+A clouddley url looks like this `https://<app-name>-<generated-values>.clouddley.app`
+:::
 
 
 That's it.
