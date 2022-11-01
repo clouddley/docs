@@ -1,0 +1,8 @@
+{
+  "label": "Apps",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Learn how to setup an your favorite application to different Cloud Providers using Clouddley Apps"
+  }
+}
