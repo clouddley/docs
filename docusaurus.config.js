@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Clouddley',
   tagline: 'The next generation of cloud platform. Built for developers, indie hackers and startups.',
-  url: 'https://clouddley.com',
-  baseUrl: '/docs/',
+  url: 'https://docs.clouddley.com',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
