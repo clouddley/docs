@@ -4,32 +4,31 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Autoscaling',
+    Svg: require('@site/static/img/autoscaling.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Clouddley is designed to autoscale your infrastructure to meet your needs. You will never have to worry about scaling up or down.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Multiple Runtime Environments',
+    Svg: require('@site/static/img/runtime.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        You can deploy any of your favorite frameworks and languages to Clouddley.
+          We support Node.js, Python, Ruby, PHP, Java, Go, .NET, and more.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'DDOS Mitigation',
+    Svg: require('@site/static/img/mitigation.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+       Clouddley's global network protects your application from DDoS attacks and other threats.
+          We offer CDN and WAF services to protect your application.
       </>
     ),
   },
